@@ -1,37 +1,40 @@
 {
-  "language": "en",
-  "departments": [
-    {
-      "dept_slug": "adhaar",
-      "dept_icon": "http://adhaar.com/adhaarimage.png",
-      "services": [
+  "language": {
+    "en": {
+      "departments": [
         {
-          "service": "How to apply",
-          "link": "https://uidai.gov.in/",
-          "icon": "https://uidai.gov.in/addhar-logo.png"
+          "dept_slug": "adhaar",
+          "dept_icon": "http://adhaar.com/adhaarimage.png",
+          "services": [
+            {
+              "service": "How to apply",
+              "link": "https://uidai.gov.in/",
+              "icon": "https://uidai.gov.in/addhar-logo.png"
+            },
+            {
+              "service": "Download adhaar",
+              "link": "https://uidai.gov.in/",
+              "icon": "https://uidai.gov.in/addhar-logo.png"
+            }
+          ]
         },
         {
-          "service": "Download adhaar",
-          "link": "https://uidai.gov.in/",
-          "icon": "https://uidai.gov.in/addhar-logo.png"
-        }
-      ]
-    },
-    {
-      "dept_slug": "pension",
-      "dept_icon": "http://pension.com/pensionimage.png",
-      "services": [
-        {
-          "service": "How to apply",
-          "link": "https://uidai.gov.in/",
-          "icon": "https://uidai.gov.in/addhar-logo.png"
-        },
-        {
-          "service": "Download adhaar",
-          "link": "https://uidai.gov.in/",
-          "icon": "https://uidai.gov.in/addhar-logo.png"
+          "dept_slug": "pension",
+          "dept_icon": "http://pension.com/pensionimage.png",
+          "services": [
+            {
+              "service": "How to apply",
+              "link": "https://uidai.gov.in/",
+              "icon": "https://uidai.gov.in/addhar-logo.png"
+            },
+            {
+              "service": "Download adhaar",
+              "link": "https://uidai.gov.in/",
+              "icon": "https://uidai.gov.in/addhar-logo.png"
+            }
+          ]
         }
       ]
     }
-  ]
+  }
 }
