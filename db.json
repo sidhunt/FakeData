@@ -4,7 +4,7 @@
       "departments": [
         {
           "dept_slug": "adhaar",
-          "dept_icon": "http://adhaar.com/adhaarimage.png",
+          "dept_icon": "https://new-img.patrika.com/upload/2018/02/10/sagar_aadhar_1_2348120_835x547-m.jpg",
           "services": [
             {
               "service": "How to apply",
@@ -20,7 +20,7 @@
         },
         {
           "dept_slug": "pension",
-          "dept_icon": "http://pension.com/pensionimage.png",
+          "dept_icon": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
           "services": [
             {
               "service": "How to apply",
