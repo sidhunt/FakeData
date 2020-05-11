@@ -1,40 +1,103 @@
 {
-  "language": {
-    "en": {
-      "departments": [
+  "language": {"en":
+                   {"departments": [
+                     {
+      "dept_slug": "Adhaar",
+      "dept_icon": "http://adhaar.com/adhaarimage.png",
+      "services": [
         {
-          "dept_slug": "adhaar",
-          "dept_icon": "https://new-img.patrika.com/upload/2018/02/10/sagar_aadhar_1_2348120_835x547-m.jpg",
-          "services": [
-            {
-              "service": "How to apply",
-              "link": "https://uidai.gov.in/",
-              "icon": "https://uidai.gov.in/addhar-logo.png"
-            },
-            {
-              "service": "Download adhaar",
-              "link": "https://uidai.gov.in/",
-              "icon": "https://uidai.gov.in/addhar-logo.png"
-            }
-          ]
+          "service": "How to apply (Adhaar)",
+          "link": "https://uidai.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
         },
         {
-          "dept_slug": "pension",
-          "dept_icon": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
-          "services": [
-            {
-              "service": "How to apply",
-              "link": "https://uidai.gov.in/",
-              "icon": "https://uidai.gov.in/addhar-logo.png"
-            },
-            {
-              "service": "Download adhaar",
-              "link": "https://uidai.gov.in/",
-              "icon": "https://uidai.gov.in/addhar-logo.png"
-            }
-          ]
+          "service": "Download adhaar",
+          "link": "https://uidai.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+    {
+      "dept_slug": "Pension",
+      "dept_icon": "https://www.npscra.nsdl.co.in/scheme-details.php",
+      "services": [
+        {
+          "service": "How to apply (Pension)",
+          "link": "https://www.npscra.nsdl.co.in/scheme-details.php#",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "Frequently Asked Questions(FAQ)",
+          "link": "https://www.npscra.nsdl.co.in/nsdl-faq.php",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "Electricity",
+      "dept_icon": "http://www.ujala.gov.in/images/logo.png",
+      "services": [
+        {
+          "service": "How to apply (Electricity)",
+          "link": "http://ujala.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "FAQ",
+          "link": "http://www.ujala.gov.in/FAQ",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "Health",
+      "dept_icon": "https://www.pmjay.gov.in/themes/gavias_vinor/images/resources/pmjay_logo-new.png",
+      "services": [
+        {
+          "service": "How to apply (Health)",
+          "link": "https://www.pmjay.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "Ministry of Health and Family Welfare",
+          "link": "https://www.mohfw.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "Rural Employment",
+      "dept_icon": "https://www.inventicons.com/uploads/iconset/440/wm/512/Office_Employee-53.png",
+      "services": [
+        {
+          "service": "How to apply (Rural Employment)",
+          "link": "http://ddugky.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "About (Rural Employment)",
+          "link": "http://ddugky.gov.in/content/about-us-0",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "Housing",
+      "dept_icon": "https://png.pngtree.com/png-vector/20191119/ourmid/pngtree-house-vector-illustration-isolated-on-white-background-house-cartoon-house-clip-png-image_1992829.jpg",
+      "services": [
+        {
+          "service": "How to apply (Housing)",
+          "link": "https://pmayg.nic.in/netiay/home.aspx",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "About (Housing)",
+          "link": "https://pmayg.nic.in/netiay/about.aspx",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
         }
       ]
     }
-  }
+  ]
+}
+}
 }
