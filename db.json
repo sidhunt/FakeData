@@ -19,11 +19,11 @@
     },
     {
       "dept_slug": "Pension",
-      "dept_icon": "https://www.npscra.nsdl.co.in/scheme-details.php",
+      "dept_icon": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
       "services": [
         {
           "service": "How to apply (Pension)",
-          "link": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
+          "link": "https://www.npscra.nsdl.co.in/scheme-details.php#",
           "icon": "https://uidai.gov.in/addhar-logo.png"
         },
         {
