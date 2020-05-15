@@ -3,7 +3,7 @@
                    {"departments": [
                      {
       "dept_slug": "Adhaar",
-      "dept_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Aadhaar_Logo.svg/1200px-Aadhaar_Logo.svg.png",
+      "dept_icon": "http://adhaar.com/adhaarimage.png",
       "services": [
         {
           "service": "How to apply (Adhaar)",
@@ -19,7 +19,7 @@
     },
     {
       "dept_slug": "Pension",
-      "dept_icon": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
+      "dept_icon": "https://www.npscra.nsdl.co.in/scheme-details.php",
       "services": [
         {
           "service": "How to apply (Pension)",
@@ -66,7 +66,7 @@
       ]
     },
      {
-      "dept_slug": "Rural",
+      "dept_slug": "Rural Employment",
       "dept_icon": "https://www.inventicons.com/uploads/iconset/440/wm/512/Office_Employee-53.png",
       "services": [
         {
@@ -92,6 +92,107 @@
         },
         {
           "service": "About (Housing)",
+          "link": "https://pmayg.nic.in/netiay/about.aspx",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    }
+  ]
+                   },
+ 
+"hi":
+                   {"departments": [
+                     {
+      "dept_slug": "आधार",
+      "dept_icon": "http://adhaar.com/adhaarimage.png",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (अधार)",
+          "link": "https://uidai.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "आधार डाउनलोड करें",
+          "link": "https://uidai.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+    {
+      "dept_slug": "पेंशन",
+      "dept_icon": "https://www.npscra.nsdl.co.in/scheme-details.php",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (पेंशन)",
+          "link": "https://www.npscra.nsdl.co.in/scheme-details.php#",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "अक्सर पूछे जाने वाले प्रश्न (एफएक्यू)",
+          "link": "https://www.npscra.nsdl.co.in/nsdl-faq.php",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "बिजली",
+      "dept_icon": "http://www.ujala.gov.in/images/logo.png",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (विद्युत)",
+          "link": "http://ujala.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "अक्सर पूछे जाने वाले प्रश्न ",
+          "link": "http://www.ujala.gov.in/FAQ",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "स्वास्थ्य",
+      "dept_icon": "https://www.pmjay.gov.in/themes/gavias_vinor/images/resources/pmjay_logo-new.png",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (स्वास्थ्य)",
+          "link": "https://www.pmjay.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "स्वास्थ्य और परिवार कल्याण मंत्रालय",
+          "link": "https://www.mohfw.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "ग्रामीण",
+      "dept_icon": "https://www.inventicons.com/uploads/iconset/440/wm/512/Office_Employee-53.png",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (ग्रामीण रोजगार)",
+          "link": "http://ddugky.gov.in/",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "के बारे में (ग्रामीण रोजगार)",
+          "link": "http://ddugky.gov.in/content/about-us-0",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        }
+      ]
+    },
+     {
+      "dept_slug": "आवास",
+      "dept_icon": "https://png.pngtree.com/png-vector/20191119/ourmid/pngtree-house-vector-illustration-isolated-on-white-background-house-cartoon-house-clip-png-image_1992829.jpg",
+      "services": [
+        {
+          "service": "आवेदन कैसे करें (आवास)",
+          "link": "https://pmayg.nic.in/netiay/home.aspx",
+          "icon": "https://uidai.gov.in/addhar-logo.png"
+        },
+        {
+          "service": "के बारे में (आवास)",
           "link": "https://pmayg.nic.in/netiay/about.aspx",
           "icon": "https://uidai.gov.in/addhar-logo.png"
         }
