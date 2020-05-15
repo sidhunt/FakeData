@@ -3,7 +3,7 @@
                    {"departments": [
                      {
       "dept_slug": "Adhaar",
-      "dept_icon": "http://adhaar.com/adhaarimage.png",
+      "dept_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Aadhaar_Logo.svg/1200px-Aadhaar_Logo.svg.png",
       "services": [
         {
           "service": "How to apply (Adhaar)",
@@ -23,7 +23,7 @@
       "services": [
         {
           "service": "How to apply (Pension)",
-          "link": "https://www.npscra.nsdl.co.in/scheme-details.php#",
+          "link": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
           "icon": "https://uidai.gov.in/addhar-logo.png"
         },
         {
@@ -104,7 +104,7 @@
                    {"departments": [
                      {
       "dept_slug": "आधार",
-      "dept_icon": "http://adhaar.com/adhaarimage.png",
+      "dept_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Aadhaar_Logo.svg/1200px-Aadhaar_Logo.svg.png",
       "services": [
         {
           "service": "आवेदन कैसे करें (अधार)",
@@ -120,7 +120,7 @@
     },
     {
       "dept_slug": "पेंशन",
-      "dept_icon": "https://www.npscra.nsdl.co.in/scheme-details.php",
+      "dept_icon": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-pension-vector-icon-png-image_3750810.jpg",
       "services": [
         {
           "service": "आवेदन कैसे करें (पेंशन)",
